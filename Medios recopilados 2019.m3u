@@ -1,0 +1,298 @@
+#EXTM3U
+
+#####################################
+#TVs LIBRES Y COMUNITARIAS EN ESPAÑOL
+#####################################
+
+#RADIOBROWSERUUID:f95cd2f6-fde5-11e9-bbf2-52543be04c81
+#EXTINF:-1 tvg-ID="CoAATV" tvg-name="CoAA TV" tvg-logo="" group-title="MEXICO" group-title="TELEVISION",MX: CoAA TV
+http://giss.tv:8001/hackerspacemx.ogg
+https://a.stream.mayfirst.org/coaatv.ogg
+
+#####################################
+#RADIOS LIBRES Y COMUNITARIAS ESPAÑA
+#####################################
+
+#RADIOBROWSERUUID:f95cd2f6-fde5-11e9-bbf2-52543be04c81
+#EXTINF:-1 tvg-ID="ContrabandaFM" tvg-name="ContrabandaFM" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/contrabandafm.jpeg" group-title="ESPAÑA",ES: Contrabanda FM Barcelona
+http://www.contrabanda.org:8000/contrabanda
+
+#RADIOBROWSERUUID:96056be6-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-ID="RadioAlmaina" tvg-name="RadioAlmaina" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radioalmaina.jpeg" group-title="ESPAÑA",ES: Radio Almaina (HQ) Granada
+http://s.streampunk.cc/almaina.ogg
+#RADIO ALMAINA A 32KBPS
+#EXTINF:-1 tvg-ID="RadioAlmainaLOW" tvg-name="RadioAlmainaLOW" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radioalmaina.jpeg" group-title="ESPAÑA",ES:Radio Almaina (LQ) Granada
+http://s.streampunk.cc/almaina-low.ogg
+
+#RADIOBROWSERUUID:32f54a68-fddf-11e9-bbf2-52543be04c81
+#EXTINF:-1 tvg-ID="AgoraSolradio" tvg-name="AgoraSolradio" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/agorasolradio.jpeg" group-title="ESPAÑA",ES: Ágora Sol radio Madrid
+http://cervera.eldialdigital.com:8044/codec=mp3
+
+#RADIOBROWSERUUID:620c93cd-8eda-11e9-a6c6-52543be04c81
+#EXTINF:-1 tvg-ID="RadioKlara" tvg-name="RadioKlara" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radioklara.jpeg" group-title="ESPAÑA",ES: Ràdio Klara Valencia
+http://cervera.eldialdigital.com:8048/
+
+#RADIOBROWSERUUID:2bd48d16-fde3-11e9-bbf2-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radiobronka.jpeg" group-title="ESPAÑA",ES: Radio Bronka Barcelona
+http://stream.nonfqdn.net:8000/rbronka.ogg
+
+#RADIOBROWSERUUID:6360713d-fddb-11e9-bbf2-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/irolairratia.jpeg" group-title="ESPAÑA",ES: Irola Irratia Bilbao
+http://s.streampunk.cc/irola_irratia.ogg
+
+#RADIOBROWSERUUID:96e37aa8-ff49-11e9-bbf2-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radioaktiva.jpeg" group-title="ESPAÑA",ES: Radio Aktiva Alcoy
+http://vps66370.ovh.net:8000/aktiva.ogg
+
+#RADIOBROWSERUUID:760c6ec5-48da-11e9-80ab-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radiomalva.jpeg" group-title="ESPAÑA",ES: Radio Malva Valencia
+http://directe.radiomalva.org:8000/rmbc.ogg?_=1
+
+#RADIOBROWSERUUID:963c8da2-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radiovallekas.png" group-title="ESPAÑA",ES: Radio Vallekas Vallecas
+http://cervera.eldialdigital.com:8032
+
+#RADIOBROWSERUUID:6992f4bb-fde4-11e9-bbf2-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/halabedi.jpeg" group-title="ESPAÑA",ES: Hala Bedi 1 Vitoria-Gasteiz
+https://halabedi.eus:8443/hb1_64.mp3
+
+#RADIOBROWSERUUID:21220b57-fb14-11e9-bbf2-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/halabedi.jpeg" group-title="ESPAÑA",ES: HALA BEDI 2 Vitoria-Gasteiz
+https://halabedi.eus:8443/hb2_64.mp3
+
+#RADIOBROWSERUUID:962879b7-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/vacalloriaradio.png" group-title="ESPAÑA",ES: Vacalloria Radio Asturias
+http://195.154.33.95:8015/live
+
+#RADIOBROWSERUUID:9170bbe6-5c70-11e8-b0ce-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://archive.org/download/radiosrecopiladas2019/radioutopia.png" group-title="ESPAÑA",ES: Radio Utopía
+http://streaming.radioutopia.org.es:8000/radio-utopia.mp3
+
+#RADIOBROWSERUUID:d1e7ea73-fb10-11e9-bbf2-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/97irratia.png" group-title="ESPAÑA",ES: 97 Irratia Bilbao
+http://62.99.71.54:8000/radio.ogg
+
+#RADIOBROWSERUUID:5ae390be-feec-11e9-bbf2-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://archive.org/download/radiosrecopiladas2019/radiotopo.png" group-title="ESPAÑA",ES: Radio Topo Zaragoza
+http://212.47.248.124/_stream/radiotopo.mp3
+
+#Radio libre de ZGZ
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="ESPAÑA",ES: La granja Zaragoza
+http://shaincast.caster.fm:31528/listen.mp3?authndb6545b4f76d14004e42fe2b25bd13ba
+
+#RADIOBROWSERUUID:963fcf40-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://archive.org/download/radiosrecopiladas2019/radiopica.png" group-title="ESPAÑA",ES:Radio PICA Barcelona
+http://srv0625.lcinternet.com:8016/stream
+
+#RADIOBROWSERUUID:964911af-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/arraioirratia.png" group-title="ESPAÑA",ES: Arraio Irratia 
+http://irratia.arraio.eus/irratia.ogg
+
+#RADIOBROWSERUUID:961d2439-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://archive.org/download/radiosrecopiladas2019/zintzilik%20irratia.png" group-title="ESPAÑA",ES: Zintzilik Irratia
+http://espora.org:8000/zintzilik.mp3
+
+#RADIOBROWSERUUID:964165a2-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/punkirratia.png" group-title="ESPAÑA",ES: PUNK irratia
+http://punkirratia.net:8000/punk
+
+#RADIOBROWSERUUID:b82f2837-fb11-11e9-bbf2-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/biztuirratixe.png" group-title="ESPAÑA",ES:BIZTU Irratia
+http://195.154.33.95:8030/;stream
+
+#RADIOBROWSERUUID:f915dda5-015c-11ea-bbf2-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://archive.org/download/radiosrecopiladas2019/radioqk.png" group-title="ESPAÑA",ES:Radio QK Oviedo
+http://giss.tv:8000/radioqk.mp3
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/lamistelera.png" group-title="ESPAÑA",ES: Radio Mistelera Denia
+http://giss.tv:8001/radiomistelera.ogg
+
+
+#RADIOBROWSERUUID:96193d5c-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://archive.org/download/radiosrecopiladas2019/radiocarcoma.png" group-title="ESPAÑA",ES: Radio Carcoma
+http://www.radiocarcoma.com:8080
+
+#RADIOBROWSERUUID:961a7d71-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/cuacfm.png" group-title="ESPAÑA",ES: CUAC FM
+https://streaming.cuacfm.org/cuacfm.ogg
+
+#RADIOBROWSERUUID:ed29747c-6095-11e9-a622-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://archive.org/download/radiosrecopiladas2019/radiofilispim.png" group-title="ESPAÑA",ES: Rádio Filispim
+
+#RADIOBROWSERUUID:964dc426-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://archive.org/download/radiosrecopiladas2019/radiopolis.png" group-title="ESPAÑA",ES:Radiópolis
+http://streaming5.elitecomunicacion.es:8022/stream
+
+#RADIOBROWSERUUID:962d45dd-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://archive.org/download/radiosrecopiladas2019/radiooasis.png" group-title="ESPAÑA",ES: Radio Oasis Salamanca
+http://cervera.eldialdigital.com:8116/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="X" group-title="ESPAÑA",ES: Radio Xata Madrid
+http://cervera.eldialdigital.com:8152/;
+
+#####################################
+#RADIOS LIBRES Y COMUNITARIAS LATINOAMERICA
+#####################################
+
+#Sembrando autonomía y Libertad
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="CHILE",CL: Radio Manque
+http://167.114.208.100:9854/
+
+#Radio on-line comunitaria de cultura y existencia lesbiana #radiolibre #feminista #lesbiana
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="CHILE",CL: Radio Humedales
+http://167.114.119.122:9680/
+
+#RADIOBROWSERUUID:964faaab-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="CHILE",CL: Nuevo Mundo 
+http://190.82.105.90:8012/
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="CHILE",CL: Radio UChile 
+http://200.89.71.21:8000/
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="CHILE",CL: Radio Aukan 
+http://198.15.86.218:8310/
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="CHILE",CL: Villa Francia 
+http://167.114.208.100:9814/;stream.mp3
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="CHILE",CL: 1ro de Mayo 
+http://78.129.193.82:38647/
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="CHILE",CL: La Radioneta 
+http://espora.org:8000/laradionetavalpo.mp3?hash=1573229858319.mp3
+
+#RADIOBROWSERUUID:960c35fb-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="CHILE",CL: Cooperativa
+http://unlimited4-us.dps.live/cooperativafm/aac/icecast.audio
+
+#RADIOBROWSERUUID:
+#EXTINF:-1 tvg-ID="RNMA" tvg-name="Radio RNMA" tvg-logo="" group-title="ARGENTINA",AR: Radio Red Nacional de Medios Alternativos
+https://flujos.mazorca.org/viajederadio.mp3
+
+#RADIOBROWSERUUID:30585388-ff57-11e9-bbf2-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="ARGENTINA",AR: Barriletes
+http://radiobarriletes.sytes.net:8000/barriletes
+
+#Radio Comunitaria del Valle de Punilla
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="ARGENTINA",AR: La Roja
+https://flujos.mazorca.org/radioroja.ogg
+
+
+#Radio 	www.zumbalaturba.com.ar - Radio Alternativa, Comunitaria y Popular / 99.5 FM / Córdoba – Argentina
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="ARGENTINA",AR: Zumba la Turba
+https://flujos.mazorca.org/zumba.ogg
+
+#RADIOBROWSERUUID:e6870f15-178b-11e9-a80b-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="URUGUAY",UY: Radio Pedal
+http://67.222.24.62:9972/;stream.mp3
+
+
+#RADIOBROWSERUUID:f4e01db7-ffe6-11e9-bbf2-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="BRASIL",BR: Rádio Comunitária Aconchego
+https://orelha.radiolivre.org/aconchego
+
+#Comunitaria Popular y Libre
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="MEXICO",MX: Radio Zacatepec
+http://espora.org:8000/radiozacatepec
+
+#"La Voz que Despierta Conciencias" 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="MEXICO",MX: Frecuencia Magonista
+http://espora.org:8000/frecuenciamagonista.ogg
+
+#https://www.cencos22oaxaca.org/
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="MEXICO",MX: Radio Planton
+http://espora.org:8000/radioplanton.mp3
+
+#	http://fmcholollan.org.mx
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/cholollan.jpeg" group-title="MEXICO",MX: Cholloan Radio
+http://espora.org:8000/radiocomtz.mp3
+
+#Frecuencia Libre y Comunitaria www.opfvii.org
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="MEXICO",MX: La Voz de Villa
+http://espora.org:8000/lavozdevilla.mp3
+
+#Radio libertaria 	somos la radio comunitaria en nochixtlan
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="MEXICO",MX: Combativa Radio
+http://espora.org:8000/combativa_radio
+
+#	Radio pirata Radio Libre
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="MEXICO",MX: Axolote Radio
+http://espora.org:8000/axoloteradio
+
+#####################################
+#RADIOS DE IZQUIERDAS EN ESPAÑA
+#####################################
+
+#RADIOBROWSERUUID:961d55f6-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/carnecruda.png" group-title="ESPAÑA",ES: Carne Cruda
+https://d2gwov621o7kt3.cloudfront.net/episodes/original/26844826?episode_id=19902836&show_id=1268689&user_id=7720470&tenant=SPREAKER&timestamp=1573167505&Expires=1573858705&Signature=dku9t0nThUY7XpWAtPqp7lhcd1rSuZ7pMhYjp2zefkSDjDGd2aSZANSwWk8jTJUGKuUIE3VU5TwV596vqZRw70U6Hlm08g2Ixddzk8dUmapCjZVWr7uM3FUGcoI1ss-48V1pSz72blIXHBfKqWEImfNKvw2Ni%7EtAFOuaKkc8uPc_&Key-Pair-Id=APKAJBD223KRVW6VKWSA
+
+#RADIOBROWSERUUID:cfa948d8-f712-11e9-bbf2-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/naizirratia.png" group-title="ESPAÑA",ES: Naiz irratia Euskal Herria
+https://zuzenean.naiz.eus/naiz_irratia.mp3
+
+#RADIOBROWSERUUID:964031f7-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://archive.org/download/radiosrecopiladas2019/radioenlace.png" group-title="ESPAÑA",ES: Radio Enlace
+http://cervera.eldialdigital.com:8100/
+
+#####################################
+#RADIOS GUBERNAMENTALES ESPAÑA
+#####################################
+
+#RADIOBROWSERUUID:8504a139-f713-11e9-bbf2-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio3.png" group-title="ESPAÑA",ES: RTVE RNE Radio 3 España
+http://radio3.rtveradio.cires21.com/radio3.mp3
+
+#RADIOBROWSERUUID:96070a75-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/rac1.png" group-title="ESPAÑA",ES: RAC1 Cataluña
+https://streaming.rac1.cat/
+
+#####################################
+#RADIOS COMERCIALES ESPAÑA
+#####################################
+
+#RADIOBROWSERUUID:9607093d-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="ESPAÑA",ES: Ràdio Flaixbac 106.1 Barcelona
+http://flaixbacweb.streaming-pro.com:8004/;
+
+#RADIOBROWSERUUID:960ca563-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="ESPAÑA",ES: Maxima FM
+http://19073.live.streamtheworld.com:80/MAXIMAFM_SC
+
+
+#####################################
+#RADIOS DE RESPALDO
+#####################################
+
+#RADIOBROWSERUUID:f915dda5-015c-11ea-bbf2-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="RESPALDOS",ES: Radio QK Oviedo
+http://giss.tv:8001/radioqk.mp3
+
+#RADIOBROWSERUUID:fe0b3105-fb13-11e9-bbf2-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/halabedi.jpeg" group-title="RESPALDOS",ES: HALA BEDI BAT Vitoria-Gasteiz
+https://halabedi.eus:8443/hb1_64.mp3
+
+#RADIOBROWSERUUID:9609d37f-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="RESPALDOS",ES: Irola Irratia Bilbao
+http://s.streampunk.cc/irola_irratia.mp3
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="RESPALDOS",ES: Radio Klara 104.4 Valencia
+http://cervera.eldialdigital.com:8048
+
+#RADIOBROWSERUUID:5197cea8-019f-11ea-bbf2-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/lamistelera.png" group-title="RESPALDOS",ES: Radio Mistelera Denia
+http://giss.tv:8000/radiomistelera.ogg
+
+#RADIOBROWSERUUID:d5d7793b-6e6c-11e9-af37-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="RESPALDOS",ES: RNE Radio 3 España
+http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne3_1@793568/index_128_a-p.m3u8?sd=10&rebase=on
+
+#RADIOBROWSERUUID:32c716ca-d91f-11e8-a9cc-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="RESPALDOS",CH: La colectiva FM 102.5
+http://server3.veemesoft.com.ar:26541/;stream.mp3?ver=783393
+
+#RADIOBROWSERUUID:b232e2de-ca8f-11e9-8502-52543be04c81
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://ia601509.us.archive.org/34/items/radiosrecopiladas2019/radio.png" group-title="RESPALDOS",CH: Cooperativa
+http://unlimited11-cl.dps.live/cooperativafm/mp3/icecast.audio
+
+#PARA AÑADIR o MANTENER ACTUALIZADAS LAS RADIOS @enjey en el Fediverso (Mastodon)
