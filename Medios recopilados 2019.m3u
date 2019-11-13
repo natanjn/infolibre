@@ -4,7 +4,7 @@
 #TVs LIBRES Y COMUNITARIAS EN ESPAÑOL
 #####################################
 
-#RADIOBROWSERUUID:f95cd2f6-fde5-11e9-bbf2-52543be04c81
+#
 #EXTINF:-1 tvg-ID="CoAATV" tvg-name="CoAA TV" tvg-logo="" group-title="MEXICO" group-title="TELEVISION",MX: CoAA TV
 http://giss.tv:8001/hackerspacemx.ogg
 https://a.stream.mayfirst.org/coaatv.ogg
